@@ -102,5 +102,11 @@ output:![outputimage](https://user-images.githubusercontent.com/76247052/1748257
 ##### input: [input video](https://drive.google.com/file/d/1lg759RnXnciHxEFKiFcrPltEPVxqjVwW/view?usp=sharing)
 ##### output : [output ascii video](https://drive.google.com/file/d/1u96CKEESFsvmiC4zaTRiQ0dnEf-E-JG0/view?usp=sharing)
   
-
+### Resources and references
+1. [medium](https://medium.com/analytics-vidhya/the-ultimate-handbook-for-opencv-pillow-72b7eff77cd7)
+2. [hackmd](https://hackmd.io/@xenorivai/H12U8cwv5)
+3. [docs.opencv](https://docs.opencv.org/4.x/d7/dbd/group__imgproc.html)
+4. [wikipedia](https://en.wikipedia.org/wiki/ASCII_art#Types_and_styles)
+5. [analytics](https://www.analyticsvidhya.com/blog/2021/03/grayscale-and-rgb-format-for-storing-images/)
+6. [alekya3.med](https://alekya3.medium.com/how-images-are-stored-in-a-computer-f364d11b4e93)
   
